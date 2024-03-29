@@ -1,0 +1,2 @@
+# Firmware for Unsaturated Hydraulic Conductivity Sensor
+The firmware is written in bascom-avr for an ATMega32 microcontroller. The micro is the core of an embedded system that, in combination with other components, forms a multi-functional sensor relying on complex electrical conductivity. The sensor is used in-situ measurement of unsaturated hydraulic conductivity. I wrote the code long time ago (~2008-2009). 
