@@ -1,7 +1,7 @@
 '@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 '
 ' Firmware for Unsaturated Hydraulic Conductivity Sensor
-' Written by Yasin Osroosh, Ph.D.
+' Written by Y. Osroosh, Ph.D.
 ' Email: yosroosh@gmail.com
 ' 
 '@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
